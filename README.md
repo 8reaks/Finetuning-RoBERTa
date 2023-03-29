@@ -5,6 +5,7 @@ The goal is to finetune the mdoel RoBERTa for sentence classification tasks
 ```
 pip install transformers
 pip install datasets
+pip install evaluate
 ```
 ## Pretrained model and dataset used:
 * RoBERTa-base for sequence classification (RobertaForSequenceClassification)
