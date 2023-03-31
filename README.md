@@ -13,3 +13,4 @@ pip install evaluate
 
 ## How to use:
 * Can be easily runned by Google Colab
+* Link: https://colab.research.google.com/drive/1gwcNOr4V9YTDr4a88t5jjmOhtuqT-raE?usp=sharing
